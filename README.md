@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SilaDemirkaya
+- 👋 Hi, I’m @SilaDemirkaya, a Software Developer.
 - 👀 I’m interested in programming, developing websites and applications.
 - 🌱 I’m currently learning Python, CSS, HTML, JavaScript, C# and Java.
 - 📫 How to reach me:  email: demirkayasila@gmail.com or sila.demirkaya@edu.sait.ca
