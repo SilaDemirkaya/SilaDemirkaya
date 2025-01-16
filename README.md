@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SilaDemirkaya, a Software Developer.
+Hi I am Sila Demirkaya!
+I'm studying Software Development at the Southern Alberta Institute of Technology (SAIT).
 - 👀 I’m interested in programming, developing websites and applications.
-- 🌱 I’m currently learning Python, CSS, HTML, JavaScript, C# and Java.
 - 📫 How to reach me:  email: demirkayasila@gmail.com or sila.demirkaya@edu.sait.ca
 - 😄 Pronouns: she/her
 
